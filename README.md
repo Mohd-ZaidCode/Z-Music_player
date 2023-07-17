@@ -31,6 +31,8 @@ Use the other controls to pause and stop.
 
 The "Playback" menu provides options for shuffle and repeat modes.
 
-Screenshot
+Screenshot:
+
+
 ![image](https://github.com/Mohd-ZaidCode/Z-Music_player/assets/127447741/4c03c6ec-b9e1-4ac0-b959-fbe8f21f3f8e)
 
